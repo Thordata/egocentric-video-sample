@@ -1,0 +1,2 @@
+record_id,media_location,media_type,viewpoint,duration_seconds,source_product_id,annotation_level,rights_status
+driving_01,https://huggingface.co/datasets/thordata/first-person-driving-video-v1,video,driver-seat-first-person,300.067,VID-20260728-151612-899,segment-level,public-preview
