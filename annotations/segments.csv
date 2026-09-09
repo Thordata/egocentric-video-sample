@@ -1,0 +1,7 @@
+file_name,segment_id,start_sec,end_sec,scene_label_en,scene_label_zh,description,confidence,review_status
+videos/driving_01.mp4,driving_01_s01,0,33.4,service area/roadside stop,服务区/路边停靠,"Driver-seat view shows a roadside service area with buildings, signs, and people near the road.",medium,needs_review
+videos/driving_01.mp4,driving_01_s02,33.4,66.7,departure/open mountain road,驶离/开放山路,"The vehicle proceeds onto an open road with mountains visible ahead.",medium,needs_review
+videos/driving_01.mp4,driving_01_s03,66.7,133.3,valley road,山谷道路,"The road continues through a wide mountain valley with roadside barriers and slopes.",medium,needs_review
+videos/driving_01.mp4,driving_01_s04,133.3,200,curving mountain road,弯曲山路,"The vehicle follows a mountain road alongside a rocky slope and bends.",medium,needs_review
+videos/driving_01.mp4,driving_01_s05,200,266.6,road with vehicle ahead,前车道路,"A vehicle is visible ahead on the mountain road while the camera car continues forward.",medium,needs_review
+videos/driving_01.mp4,driving_01_s06,266.6,300.067,open valley road,开放山谷道路,"The final section shows continued driving through an open valley road.",medium,needs_review
