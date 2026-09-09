@@ -1,0 +1,21 @@
+{
+  "dataset_id": "thordata-first-person-driving-video",
+  "version": "0.1.0",
+  "name": "First-Person Perspective Driving Video Collection",
+  "source_product_id": "VID-20260728-151612-899",
+  "source_url": "https://datamall.thordata.com/datasets/VID-20260728-151612-899",
+  "huggingface_url": "https://huggingface.co/datasets/thordata/first-person-driving-video-v1",
+  "viewpoint": "driver-seat-first-person",
+  "media_type": "video",
+  "sample_count": 1,
+  "annotation_level": "segment-level",
+  "scenarios": [
+    "roadside-service-area",
+    "open-mountain-road",
+    "valley-road",
+    "curving-mountain-road",
+    "vehicle-ahead"
+  ],
+  "media_distribution": "hosted-on-hugging-face",
+  "status": "public-preview"
+}
