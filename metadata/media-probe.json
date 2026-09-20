@@ -1,0 +1,27 @@
+﻿{
+    "video_id":  "driving_01",
+    "source_url":  "https://bj-video-annotation.tos-cn-beijing.volces.com/js-datamall/20260728/1785222859959093726-20260725103636%20000056.mp4",
+    "source_file":  "driving_01.mp4",
+    "source_sha256":  "2DED594132809AEF8FB471BEFDC5085AF4C2C7DBA2EB3B1EB0F0618879FFFD1B",
+    "file_size_bytes":  58419103,
+    "container":  "MP4",
+    "codec_sample_entry":  "avc1",
+    "width":  720,
+    "height":  480,
+    "duration_sec":  300.05,
+    "frame_count":  6001,
+    "average_fps":  20,
+    "audio_track_present":  false,
+    "metadata_sampling":  "all video samples from the MP4 video track",
+    "metadata_rows":  6001,
+    "segment_boundaries_sec":  [
+                                   0,
+                                   33.4,
+                                   66.7,
+                                   133.3,
+                                   200,
+                                   266.6,
+                                   300.067
+                               ],
+    "annotation_status":  "needs_review"
+}
